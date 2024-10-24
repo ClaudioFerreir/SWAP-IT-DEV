@@ -68,3 +68,5 @@ gem 'dotenv-rails', groups: [:development, :test]
 gem 'cloudinary'
 gem 'faker'
 gem 'rubyzip', '~> 2.3.0'
+
+gem 'dotenv-rails', groups: [:development, :test]
